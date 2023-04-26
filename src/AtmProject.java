@@ -12,5 +12,8 @@ public class AtmProject {
         System.out.println("yavuz branchi kodlarini yazdi.");
         //version yvz1
 
+        System.out.println("bir kisim kodlar");
+        //yvz2
+
     }
 }
