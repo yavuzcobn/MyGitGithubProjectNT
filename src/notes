@@ -1,0 +1,11 @@
+Arkadaslar src'ye new sonrasi java class ekleyebildim. Bunun yolu soyle
+Check that the "src" folder is marked as a source folder: Right-click on the "src" folder
+in your project and select "Mark Directory as" > "Sources Root". This should mark the "src"
+folder as a source folder for your project, which may help IntelliJ IDEA recognize that Java classes should be created there.
+Check that the Java plugin is installed and enabled: Go to "File" > "Settings" (on Windows) or
+"IntelliJ IDEA" > "Preferences" (on macOS) to open the Settings dialog box. In the left-hand panel,
+navigate to "Plugins" and make sure that the Java plugin is installed and enabled. If it's not installed,
+click the "Install" button next to it and then restart IntelliJ IDEA.
+Check that you are creating the Java class in the right place: Right-click on the "src" folder in your project
+and select "New" > "Java Class". Make sure that you are not creating the class inside a subdirectory of "src",
+as the Java Class option may not be available in subdirectories.
