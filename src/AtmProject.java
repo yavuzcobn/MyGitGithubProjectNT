@@ -21,6 +21,7 @@ public class AtmProject {
         System.out.println();
         //yvz4
         //localde degisiklik yaptim.
+        //remote'da degisiklik yaptim.
 
     }
 }
